@@ -1,12 +1,12 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import './Header.css'
-import logo from "../images/nexai-logo.png"
+import logo from "../images/nexai-logo.pn"
 
 const Header = ({ siteTitle }) => (
   <div className="Header">
     <div className="HeaderGroup">
-      <Link to="/"><img src={logo} width="120" /></Link>
+      <Link to="/"><img src={logo} width="30" /></Link>
       <Link to="/courses">Courses</Link>
       <Link to="/downloads">Downloads</Link>
       <Link to="/workshops">workshops</Link>
