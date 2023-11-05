@@ -30,7 +30,7 @@ a {
 
 .Hero h1 {
   margin: 0;
-  color: white;
+  color: w;
   font-size: 36px;
   text-transform: uppercase;
   line-height: 1.5;
@@ -47,7 +47,7 @@ a {
 }
 
 .Hero p {
-  color: rgba(255,255,255, 0.8);
+  color: rgba(0,0,0, 0.8);
   font-size: 30px;
   line-height: 1.5;
   animation: HeroAnimation 3s 0.2s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
@@ -57,7 +57,7 @@ a {
 .Hero a {
   font-size: 17px;
   font-weight: 600;
-  color: whitesmoke;
+  color: black;
   text-transform: uppercase;
   background: rgba(0,0,0, 0.7);
   padding: 9px 20px;

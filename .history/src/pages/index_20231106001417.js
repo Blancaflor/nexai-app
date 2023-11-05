@@ -21,7 +21,7 @@ const IndexPage = () => (
             <img src={require('../images/logo-framer.png')} width="50" />
             <img src={require('../images/logo-react.png')} width="50" />
             <img src={require('../images/logo-swift.png')} width="50" />
-        </div> */}
+        </div>
         </div>
       </div>
     </div>
