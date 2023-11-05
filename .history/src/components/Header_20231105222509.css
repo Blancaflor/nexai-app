@@ -1,0 +1,12 @@
+.Header {
+    position: fixed;
+    width: 100%;
+    padding: 50px 0;
+    z-index: 100;
+}
+
+.HeaderGroup {
+    max-width: 960px;
+    margin: 0 auto;
+    display: grid;
+}

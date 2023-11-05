@@ -1,0 +1,13 @@
+.Header {
+    position: fixed;
+    width: 100%;
+    padding: 50px 0;
+    z-index: 100;
+}
+
+.HeaderGroup {
+    max-width: 600px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-colums: repeat(5,)
+}
