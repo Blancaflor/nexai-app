@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import './Header.css'
 
+
 const Header = ({ siteTitle }) => (
   <div className="Header">
     <div className="HeaderGroup">
