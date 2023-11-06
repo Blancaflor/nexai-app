@@ -6,7 +6,7 @@ import logo from "../images/nexai-logo.png"
 const Header = ({ siteTitle }) => (
   <div className="Header">
     <div className="HeaderGroup">
-      <Link to="/"><img src={logo} width="80" /></Link>
+      <Link to="/"><img src={logo} width="8" /></Link>
       <Link to="/courses">Courses</Link>
       <Link to="/downloads">Downloads</Link>
       <Link to="/workshops">workshops</Link>
